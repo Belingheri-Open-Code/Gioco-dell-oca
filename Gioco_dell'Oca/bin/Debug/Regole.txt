@@ -1,0 +1,47 @@
+GIOCO DELL'OCA (modificato)
+Obiettivo: uso della OOP (in particolare l’ereditarietà)
+
+Si usa un tabellone con 63 caselle numerate;
+i giocatori sono 2 e ognuno ha una pedina colorata;
+si hanno a disposizione 2 dadi  che ogni giocatore dovrà tirare per avanzare nel gioco;
+si parte dalla casella numero 0;
+vince, e guadagna tutte le poste pagate, chi raggiunge la casella 63;
+se la casella 63 viene superata si continua a contare arretrando (sono alla 62, esce 3, arretro alla 61);
+se un giocatore viene raggiunto dall'avversario  deve pagare la posta e andare alla posizione dell'avversario precedente;
+le caselle che rappresentano  le oche  consentono di spostarsi, nella stessa direzione (potrei anche avere una direzione opposta per es. dopo casella labirinto), di un numero di caselle pari a quelle coperte dal movimento appena effettuato. Queste caselle sono collocate nella versione classica ogni nove caselle a partire dalle caselle 5 e 9 .
+
+Ci sono inoltre le seguenti caselle speciali:
+
+- "il ponte": consente di raddoppiare il movimento ma obbliga a pagare la posta; 
+- "la casa": obbliga a pagare la posta e rimanere fermi per un turno; 
+- "la prigione": si rimane fermi per 3 turni o fino all'arrivo nella casella dell'altro giocatore, che viene a sua volta imprigionato; 
+- "il labirinto": si ritorna a 3 caselle  precedenti; 
+- "lo scheletro": si ritorna alla casella 1
+- “la sveglia”: si rimane fermi per il tempo associato alla casella istanziata (NON è sempre quello in ogni casella sveglia);
+- “il mago”:  non si ha diritto al lancio dei dadi finchè non si indovina l’indovinello (NON è sempre quello in ogni casella mago) associato alla casella istanziata. 
+
+
+La creazione del tabellone può avvenire con un numero prefissato di caselle speciali e non, oppure  con una forma di casualità guidata.
+
+
+Esempio di classi: 	
+			casella base, 
+			casella numero, 
+			casella immagine, 
+			casella oca, 
+			casella con immagine sveglia e componente timer, 
+			casella rispondi indovinello
+
+
+		classe casella
+			-int num
+			-virtual=0
+				class speciali
+					-string immagine
+					-message box
+							class sveglia
+								-timer
+							class mago
+								-pop up
+
+

@@ -1,0 +1,42 @@
+E:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell_Oca.Form1.resources
+E:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell_Oca.Properties.Resources.resources
+E:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell'Oca.csproj.GenerateResource.Cache
+E:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\bin\Debug\Gioco_dellOca.exe
+E:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\bin\Debug\Gioco_dellOca.pdb
+E:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dellOca.exe
+E:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dellOca.pdb
+F:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dellOca.exe
+F:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dellOca.pdb
+F:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\bin\Debug\Gioco_dellOca.exe
+F:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\bin\Debug\Gioco_dellOca.pdb
+F:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell_Oca.Form1.resources
+F:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell_Oca.Properties.Resources.resources
+F:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell'Oca.csproj.GenerateResource.Cache
+F:\as 2017\informatica\c#\Projects\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell'Oca.csprojResolveAssemblyReference.cache
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dellOca.exe
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dellOca.pdb
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell'Oca.csprojResolveAssemblyReference.cache
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell_Oca.Form1.resources
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell_Oca.Properties.Resources.resources
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell'Oca.csproj.GenerateResource.Cache
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\Gioco_dell'Oca\bin\Debug\Gioco_dellOca.exe
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\Gioco_dell'Oca\bin\Debug\Gioco_dellOca.pdb
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dellOca.exe
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dellOca.pdb
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell'Oca.csprojResolveAssemblyReference.cache
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell_Oca.Form1.resources
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell_Oca.Properties.Resources.resources
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell'Oca.csproj.GenerateResource.Cache
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\bin\Debug\Gioco_dellOca.exe
+C:\Users\belingheri.13091\Desktop\Gioco_dell'Oca\Gioco_dell'Oca\bin\Debug\Gioco_dellOca.pdb
+F:\as 2017\informatica\c#\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dellOca.exe
+F:\as 2017\informatica\c#\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dellOca.pdb
+F:\as 2017\informatica\c#\Gioco_dell'Oca\Gioco_dell'Oca\bin\Debug\Gioco_dellOca.exe
+F:\as 2017\informatica\c#\Gioco_dell'Oca\Gioco_dell'Oca\bin\Debug\Gioco_dellOca.pdb
+F:\as 2017\informatica\c#\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell'Oca.csprojResolveAssemblyReference.cache
+F:\as 2017\informatica\c#\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell_Oca.Form1.resources
+F:\as 2017\informatica\c#\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell_Oca.Properties.Resources.resources
+F:\as 2017\informatica\c#\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell'Oca.csproj.GenerateResource.Cache
+F:\as 2017\informatica\c#\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dell_Oca.Form_Mago.resources
+F:\as 2017_\informatica\c#\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dellOca.exe
+F:\as 2017_\informatica\c#\Gioco_dell'Oca\Gioco_dell'Oca\obj\x86\Debug\Gioco_dellOca.pdb
